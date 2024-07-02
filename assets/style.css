@@ -83,7 +83,7 @@ img {
 
 #about-me {
   flex: 2;
-  text-align: justify;
+  text-align: left;
 }
 
 .about-me__title {
